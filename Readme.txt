@@ -1,0 +1,1 @@
+Gets names from the user. Stores them in a list. Then sorts them.
